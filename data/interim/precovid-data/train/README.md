@@ -1,0 +1,1 @@
+We are kind of creating same logic dataset but without covid period included and excluding one month from the initial precovid dataset in order to use it as evaluation period dataset in batches.
