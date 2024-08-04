@@ -1,0 +1,1 @@
+This file contains data from https://ieee-dataport.org/competitions/day-ahead-electricity-demand-forecasting-post-covid-paradigm (includes COVID period)
